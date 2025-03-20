@@ -55,11 +55,17 @@
 
 ## 🎥 فيديوهات المشروع
 
-فيديو المرحلة الأولى من المشروع: https://studio.youtube.com/video/TlcHmZcGWE0/edit.
+فيديو شرح عن المشروع:
+[https://studio.youtube.com/video/TlcHmZcGWE0/edit.](https://youtu.be/DFbeAffLHlE?si=EZR_u6SIfxdPa9t5)
 
-فيديو المرحلة الثانية من المشروع: https://studio.youtube.com/video/ISsWeyD9UYI/edit.
+فيديو المرحلة الأولى من المشروع:
+[https://studio.youtube.com/video/ISsWeyD9UYI/edit.
+](https://youtu.be/TlcHmZcGWE0?si=tD7pzAJKPjk2oQXg)
 
-فيديو شرح عن المشروع: https://studio.youtube.com/video/DFbeAffLHlE/edit. 
+ فيديو المرحلة الثانية من المشروع: [https://studio.youtube.com/video/DFbeAffLHlE/edit. ](https://youtu.be/ISsWeyD9UYI?si=Wso1SBikYEcZzwaX) 
+
+فيديو شرح المشروع النهائي:
+https://youtu.be/1-fotR46TOw?si=DuQseeIGyT42NmUk
 
 ## 🔮 التوصيات المستقبلية
 
